@@ -32,20 +32,3 @@ a{text-decoration:none;color:inherit}
 .cta{padding:48px;border-radius:22px;background:linear-gradient(135deg,#0b3858,#0b6175);display:flex;justify-content:space-between}
 .site-footer{padding:46px 0}
 @media(max-width:900px){.hero-grid,.grid.three{grid-template-columns:1fr}.nav-links{display:none}.hero:before{background-size:75%}.hero-contact{flex-direction:column}}
-
-/* Hero video consolidated rules (merged from hero-video.css & v7-hero-video-update.css) */
-.hero-content{position:relative;z-index:5;max-width:900px}
-.hero-contact span{display:flex;align-items:center;gap:8px}
-.cta-group{display:flex;flex-wrap:wrap;gap:15px;margin-top:30px}
-.btn-primary{background:#35d0d8;color:#071827;padding:14px 28px;border-radius:8px;text-decoration:none;font-weight:700}
-.btn-secondary{border:1px solid #35d0d8;color:#35d0d8;padding:14px 28px;border-radius:8px;text-decoration:none;font-weight:700}
-
-/* Ensure hero watermark and overlay remain accessible */
-.hero::before{pointer-events:none}
-
-@media(max-width:768px){
-  .hero::before{background-size:75%}
-  .hero-contact{flex-direction:column;gap:12px}
-  .hero h1{font-size:2.8rem}
-}
-
