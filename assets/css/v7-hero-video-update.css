@@ -1,0 +1,11 @@
+/* ADD TO BOTTOM OF v7.css */
+.hero{position:relative;overflow:hidden;min-height:100vh;background:none!important}
+.hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
+.hero::before{content:"";position:absolute;inset:0;background:url("../brand/vertic-security-hero-logo.webp") center center no-repeat;background-size:50%;opacity:.08;pointer-events:none;z-index:1}
+.hero-overlay{position:absolute;inset:0;background:linear-gradient(rgba(7,24,39,.55),rgba(7,24,39,.90));z-index:2}
+.hero-content{position:relative;z-index:5}
+.hero-contact{display:flex;gap:24px;flex-wrap:wrap;margin-top:25px}
+.hero-contact span{display:flex;gap:8px;align-items:center}
+.hero-contact a{color:#35d0d8;text-decoration:none;font-weight:700}
+.hero-contact a:hover{color:#fff}
+@media(max-width:768px){.hero::before{background-size:75%}.hero-contact{flex-direction:column;gap:12px}}

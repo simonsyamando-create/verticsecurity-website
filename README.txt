@@ -1,1 +1,1 @@
-Upload datacentre-flyover.mp4 into assets/video/ then paste UPDATED-HERO-SECTION.html into your hero section and add CSS rules.
+Upload assets/video/datacentre-flyover.mp4. Replace the current hero section in index.html with REPLACE-HERO-SECTION.html content. Append CSS to bottom of assets/css/v7.css.
