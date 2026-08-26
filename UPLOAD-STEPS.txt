@@ -1,6 +1,6 @@
-# Vertic Security Version 2
+ Vertic Security Version 2
 
-## Included
+ Included
 - Animated particle-network hero background
 - Moving infrastructure graphic
 - Scroll reveal effects
@@ -12,30 +12,30 @@
 - Email signature template
 - SEO files and custom-domain CNAME
 
-## Upload over the existing GitHub site
+ Upload over the existing GitHub site
 1. Download and extract this ZIP.
-2. Open the existing `verticsecurity-website` repository on GitHub.
-3. Select **Add file > Upload files**.
-4. Drag everything inside the `vertic-security-v2` folder into the upload area.
+2. Open the existing verticsecurity-website repository on GitHub.
+3. Select Add file > Upload files.
+4. Drag everything inside the vertic-security-v2 folder into the upload area.
 5. If prompted about existing files, upload the new versions. The commit will replace files that have the same names.
-6. Enter commit message: `Deploy Vertic Security Version 2`.
-7. Commit directly to the `main` branch.
-8. Open **Actions** and wait for the Pages deployment to complete.
+6. Enter commit message: Deploy Vertic Security Version 2.
+7. Commit directly to the main branch.
+8. Open Actions and wait for the Pages deployment to complete.
 9. Hard refresh the website with Ctrl+F5 or use an InPrivate window.
 
-## Important
-- Keep `CNAME` in the repository root. It contains `www.verticsecurity.com.au`.
+ Important
+- Keep CNAME in the repository root. It contains www.verticsecurity.com.au.
 - Do not alter GoDaddy DNS or Microsoft 365 mail records when uploading this version.
 - The website contains no third-party libraries, stock video, external fonts or remote scripts.
-- The contact form opens an email draft to `info@verticsecurity.com.au`.
+- The contact form opens an email draft to info@verticsecurity.com.au.
 - Review the Government and SCEC advisory wording against the company's actual qualifications and service scope before public launch.
 
-## Brand assets
-- `assets/brand/logo-dark.svg`
-- `assets/brand/logo-light.svg`
-- `assets/brand/brand-mark.svg`
-- `assets/brand/favicon.svg`
-- `assets/brand/linkedin-banner.svg`
+ Brand assets
+- assets/brand/logo-dark.svg
+- assets/brand/logo-light.svg
+- assets/brand/brand-mark.svg
+- assets/brand/favicon.svg
+- assets/brand/linkedin-banner.svg
 
-## Capability statement
-Open `capability.html`, select **Print / Save as PDF**, and choose PDF in the browser print dialog.
+ Capability statement
+Open capability.html, select Print / Save as PDF, and choose PDF in the browser print dialog.
