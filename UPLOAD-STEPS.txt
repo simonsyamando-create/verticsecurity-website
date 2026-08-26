@@ -1,41 +1,41 @@
- Vertic Security Version 2
+ Vertic Security Premium Version 3
 
- Included
-- Animated particle-network hero background
-- Moving infrastructure graphic
-- Scroll reveal effects
-- Animated statistics
-- Interactive service and industry cards
-- Responsive dark enterprise design
-- Style C abstract infrastructure logo, favicon and LinkedIn banner
+ What is included
+- Selected Vertic Security logo with “ADVISORY | DESIGN | DELIVERY”
+- Premium animated homepage with particle network and scan effects
+- Advisory, design, delivery and assurance service architecture
+- Dedicated security technology delivery page
+- Industry, about, capability and contact pages
+- Responsive mobile navigation
+- Animated counters, reveal effects, interactive cards and system map
 - Printable capability statement
 - Email signature template
-- SEO files and custom-domain CNAME
+- SEO files, sitemap, 404 page and GitHub Pages CNAME
 
- Upload over the existing GitHub site
-1. Download and extract this ZIP.
-2. Open the existing verticsecurity-website repository on GitHub.
-3. Select Add file > Upload files.
-4. Drag everything inside the vertic-security-v2 folder into the upload area.
-5. If prompted about existing files, upload the new versions. The commit will replace files that have the same names.
-6. Enter commit message: Deploy Vertic Security Version 2.
-7. Commit directly to the main branch.
-8. Open Actions and wait for the Pages deployment to complete.
-9. Hard refresh the website with Ctrl+F5 or use an InPrivate window.
+ Upload into the existing GitHub repository
+1. Download and extract the ZIP file.
+2. Open the existing GitHub repository: simonsyamando-create/verticsecurity-website.
+3. Select Add file, then Upload files.
+4. Open the extracted vertic-security-premium-v3 folder.
+5. Select every item inside the folder. Upload the files and folders themselves, not the outer folder.
+6. GitHub will replace files with matching names and add the new delivery.html page.
+7. Use commit message: Deploy Vertic Security premium V3.
+8. Commit directly to the main branch.
+9. Open the Actions tab and wait for the Pages deployment to complete successfully.
+10. Open the website in an InPrivate window or hard refresh with Ctrl+F5.
 
- Important
-- Keep CNAME in the repository root. It contains www.verticsecurity.com.au.
-- Do not alter GoDaddy DNS or Microsoft 365 mail records when uploading this version.
-- The website contains no third-party libraries, stock video, external fonts or remote scripts.
-- The contact form opens an email draft to info@verticsecurity.com.au.
-- Review the Government and SCEC advisory wording against the company's actual qualifications and service scope before public launch.
+ Do not change
+- Keep the included CNAME file in the repository root.
+- Do not change GoDaddy DNS or Microsoft 365 email records during this website upload.
 
- Brand assets
-- assets/brand/logo-dark.svg
-- assets/brand/logo-light.svg
-- assets/brand/brand-mark.svg
-- assets/brand/favicon.svg
-- assets/brand/linkedin-banner.svg
+ Before public launch
+- Confirm info@verticsecurity.com.au is active.
+- Review all claims about installation, integration, licensing, certifications and secure-facility services against the company's actual approved capability.
+- Replace the email-based contact form with a hosted form or CRM workflow when ready.
+- Test every page on desktop and mobile.
 
- Capability statement
-Open capability.html, select Print / Save as PDF, and choose PDF in the browser print dialog.
+ Brand files
+- assets/brand/vertic-security-master-logo.jpg
+- assets/brand/vertic-security-logo-512.png
+- assets/brand/vertic-security-hero-logo.webp
+- assets/brand/favicon.png
