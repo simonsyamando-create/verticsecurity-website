@@ -1,41 +1,15 @@
- Vertic Security Premium Version 3
+Vertic Security Shield V4
 
- What is included
-- Selected Vertic Security logo with “ADVISORY | DESIGN | DELIVERY”
-- Premium animated homepage with particle network and scan effects
-- Advisory, design, delivery and assurance service architecture
-- Dedicated security technology delivery page
-- Industry, about, capability and contact pages
-- Responsive mobile navigation
-- Animated counters, reveal effects, interactive cards and system map
-- Printable capability statement
-- Email signature template
-- SEO files, sitemap, 404 page and GitHub Pages CNAME
+Upload steps:
+1. Extract this ZIP.
+2. Open the existing GitHub repository simonsyamando-create/verticsecurity-website.
+3. Choose Add file > Upload files.
+4. Upload everything inside the vertic-security-shield-v4 folder, not the outer folder.
+5. Commit message: Deploy Vertic Security Shield V4.
+6. Commit to the main branch.
+7. Wait for GitHub Pages deployment in Actions.
+8. Hard refresh with Ctrl+F5.
 
- Upload into the existing GitHub repository
-1. Download and extract the ZIP file.
-2. Open the existing GitHub repository: simonsyamando-create/verticsecurity-website.
-3. Select Add file, then Upload files.
-4. Open the extracted vertic-security-premium-v3 folder.
-5. Select every item inside the folder. Upload the files and folders themselves, not the outer folder.
-6. GitHub will replace files with matching names and add the new delivery.html page.
-7. Use commit message: Deploy Vertic Security premium V3.
-8. Commit directly to the main branch.
-9. Open the Actions tab and wait for the Pages deployment to complete successfully.
-10. Open the website in an InPrivate window or hard refresh with Ctrl+F5.
+Keep the CNAME file. Do not change GoDaddy DNS or Microsoft 365 email records during this upload.
 
- Do not change
-- Keep the included CNAME file in the repository root.
-- Do not change GoDaddy DNS or Microsoft 365 email records during this website upload.
-
- Before public launch
-- Confirm info@verticsecurity.com.au is active.
-- Review all claims about installation, integration, licensing, certifications and secure-facility services against the company's actual approved capability.
-- Replace the email-based contact form with a hosted form or CRM workflow when ready.
-- Test every page on desktop and mobile.
-
- Brand files
-- assets/brand/vertic-security-master-logo.jpg
-- assets/brand/vertic-security-logo-512.png
-- assets/brand/vertic-security-hero-logo.webp
-- assets/brand/favicon.png
+Before launch, verify all installation, licensing, certification and secure-facility claims against the company’s approved scope.
