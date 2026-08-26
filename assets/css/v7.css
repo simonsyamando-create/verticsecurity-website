@@ -32,3 +32,10 @@ a{text-decoration:none;color:inherit}
 .cta{padding:48px;border-radius:22px;background:linear-gradient(135deg,#0b3858,#0b6175);display:flex;justify-content:space-between}
 .site-footer{padding:46px 0}
 @media(max-width:900px){.hero-grid,.grid.three{grid-template-columns:1fr}.nav-links{display:none}.hero:before{background-size:75%}.hero-contact{flex-direction:column}}
+
+/* Small logo wall tweaks */
+.logo-wall{padding:18px 0}
+.logo-track{display:flex;gap:24px;align-items:center}
+.logo-item{min-width:140px;height:80px;display:grid;place-items:center;color:var(--muted);font-weight:700}
+@media(max-width:768px){.logo-item{min-width:100px;height:60px;font-size:.9rem}}
+
