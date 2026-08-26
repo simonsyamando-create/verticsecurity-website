@@ -1,36 +1,7 @@
-Vertic Security Website Pack
-
-A static, responsive website ready for GitHub Pages.
-
-#Upload to GitHub
-1. Sign in to GitHub and create a new repository named vertic-security.
-2. Open the repository and select Add file > Upload files.
-3. Open the extracted vertic-security-website folder.
-4. Select everything inside the folder, including index.html, CNAME, assets, and the other pages. Do not upload the outer folder itself.
-5. Commit the files to the main branch.
-6. Open Settings > Pages.
-7. Under Build and deployment, choose Deploy from a branch.
-8. Select branch main and folder /(root), then Save.
-9. Wait for GitHub to show the published site address.
-
-#Custom domain
-The included CNAME file is set to www.verticsecurity.com.au.
-
-In GitHub, add the custom domain before changing DNS. Then in GoDaddy DNS create:
-- CNAME: host www, value YOUR-GITHUB-USERNAME.github.io
-- A: host @, value 185.199.108.153
-- A: host @, value 185.199.109.153
-- A: host @, value 185.199.110.153
-- A: host @, value 185.199.111.153
-
-Replace YOUR-GITHUB-USERNAME with the actual GitHub username. Do not change or remove Microsoft 365 MX/TXT/CNAME records when editing website DNS.
-
-#Before launch
-- Confirm the email address info@verticsecurity.com.au exists.
-- Review all service statements for accuracy and any licensing/certification requirements.
-- Replace the mailto form with Microsoft Forms or Formspree if you want submissions stored online.
-- Test every page on desktop and mobile.
-- In GitHub Pages, enable Enforce HTTPS after DNS is recognised.
-
-#Capability statement
-Open capability.html in a browser and choose Print / Save as PDF to create a PDF version.
+1. Confirm your video is named datacentre-flyover.mp4.
+2. Upload it to assets/video/datacentre-flyover.mp4.
+3. Upload index.html to the repository root and replace the existing file.
+4. Upload assets/css/v7.css and replace the existing file.
+5. Keep the existing assets/brand files and CNAME.
+6. Commit: Deploy complete hero video replacement.
+7. Wait for GitHub Pages Actions to complete, then hard refresh with Ctrl+F5.
