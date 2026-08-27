@@ -1,0 +1,2 @@
+window.VERTIC_GA4_ID="";/* Replace with your GA4 Measurement ID, for example G-XXXXXXXXXX */
+if(window.VERTIC_GA4_ID){const s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id="+encodeURIComponent(window.VERTIC_GA4_ID);document.head.appendChild(s);window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments)};gtag("js",new Date());gtag("config",window.VERTIC_GA4_ID);}
