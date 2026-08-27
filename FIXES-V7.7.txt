@@ -1,4 +1,0 @@
-- Replaced text-only platform tiles with supplied logo images.
-- Added all available supplier logos to the animated technology wall.
-- Added supplier logos to relevant platform cards.
-- Preserved the published disclaimer that references do not imply formal partnership or certification.

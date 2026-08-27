@@ -1,3 +1,0 @@
-- Rebuilt the hero video from the original source.
-- Applied stronger stabilisation, cropping and temporal smoothing.
-- Retained supplier logos, GSC verification, CTAs and contact form.
