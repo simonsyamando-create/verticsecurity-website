@@ -7,3 +7,14 @@
 
 /* V7.2 CTA */
 .sitewide-cta{padding:38px 0}.sitewide-cta .cta h2{margin:5px 0}.sitewide-cta .cta p{margin:0;color:#d6e5ea}.sitewide-cta .actions{margin-top:0;min-width:max-content}@media(max-width:900px){.sitewide-cta .actions{margin-top:18px;min-width:0}}
+
+/* V7.4 conversion CTAs */
+.nav-cta{padding:9px 14px!important;color:#04202a!important;font-size:.85rem!important}
+.text-link{display:inline-block;margin-top:16px;color:var(--cyan);font-weight:800}.light .text-link{color:#087c86}.text-link:hover{text-decoration:underline}
+.floating-contact{position:fixed;right:20px;bottom:20px;z-index:70;display:flex;gap:9px;filter:drop-shadow(0 12px 24px rgba(0,0,0,.32))}.floating-contact a{padding:11px 15px;border-radius:999px;font-weight:800;font-size:.86rem}.floating-call{background:#fff;color:#071827}.floating-quote{background:var(--cyan);color:#04202a}
+@media(max-width:900px){.nav-cta{width:100%}.floating-contact{left:12px;right:12px;bottom:12px}.floating-contact a{flex:1;text-align:center;padding:12px 8px}.site-footer{padding-bottom:105px}}
+@media(max-width:480px){.floating-call{display:none}.floating-contact a{width:100%}}
+
+/* V7.7 actual supplier logo presentation */
+.logo-item{padding:12px;background:#fff;overflow:hidden}.logo-item img{width:100%;height:76px;max-width:180px;max-height:76px;object-fit:contain;filter:none}.platform-logo{width:100%;height:82px;object-fit:contain;object-position:left center;background:#fff;border-radius:10px;padding:10px;margin-bottom:18px}.light .platform-logo{border:1px solid #dce7ec}
+@media(max-width:900px){.logo-item img{height:64px}.platform-logo{height:74px}}

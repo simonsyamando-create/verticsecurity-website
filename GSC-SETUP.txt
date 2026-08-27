@@ -1,0 +1,1 @@
+Google Search Console verification file installed at the website root. After deployment, return to Search Console and click Verify. Then submit the sitemap.
