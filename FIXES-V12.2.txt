@@ -1,9 +1,0 @@
-V12.2
-- Standardised one header, logo, navigation and footer across every clean-URL page and 404.
-- Reduced header to Home, Services, Industries, About, Contact and Book consultation.
-- Moved Technology, Platforms, Delivery, Workshops and Capability into the footer structure.
-- Created /workshops/ and redirected /insights/.
-- Standardised cyan CTA styling and simplified mobile CTAs.
-- Fixed the Capability logo using an existing brand asset.
-- Expanded Delivery with lifecycle, acceptance and closeout content.
-- Moved the mobile menu breakpoint to prevent link collision.

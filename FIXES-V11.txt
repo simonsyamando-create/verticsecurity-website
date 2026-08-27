@@ -1,5 +1,0 @@
-- Rebuilt Industries around data centres, critical infrastructure and high-security environments.
-- Expanded About with company positioning, approach and working principles.
-- Expanded Services to cover complete security deployment, including access control, CCTV, alarms, intercom, perimeter, networks, installation and commissioning.
-- Updated Capability to remove supplier names and reflect complete systems capability.
-- Changed contact and CTA blue styling to a darker graphite and teal treatment.

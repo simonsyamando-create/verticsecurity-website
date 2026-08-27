@@ -1,7 +1,0 @@
-V7.1 fixes
-- Restored the data centre hero video on the homepage.
-- Added hero overlay, contact details and assurance messaging.
-- Replaced the mailto contact form with Web3Forms submission.
-- Added accessible mobile-menu state handling.
-- Added canonical metadata and improved page descriptions.
-- Added responsive and form-status styling.
