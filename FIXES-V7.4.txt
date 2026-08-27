@@ -1,0 +1,6 @@
+Added conversion-focused CTAs:
+- Book Consultation button in the main navigation.
+- Contextual CTA links on homepage capability and industry cards.
+- Persistent Call and Request Proposal buttons on desktop.
+- Mobile-friendly persistent Request Proposal button.
+- Existing page-bottom consultation and proposal CTA retained.

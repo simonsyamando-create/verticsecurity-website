@@ -1,0 +1,3 @@
+- Stabilised hero video with two-pass motion analysis.
+- Re-encoded as H.264 yuv420p with fast-start.
+- Retained GSC verification, CTAs, clean URLs and Web3Forms.
