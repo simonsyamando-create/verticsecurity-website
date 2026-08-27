@@ -1,0 +1,4 @@
+- Removed all supplier logos and the technology partner logo wall.
+- Replaced the homepage logo area with a vendor-neutral capability section.
+- Expanded Services, Technology, Platforms, Industries and Insights pages.
+- Retained clean URLs, GSC verification, smooth hero video, CTAs and Web3Forms.

@@ -18,3 +18,6 @@
 /* V7.7 actual supplier logo presentation */
 .logo-item{padding:12px;background:#fff;overflow:hidden}.logo-item img{width:100%;height:76px;max-width:180px;max-height:76px;object-fit:contain;filter:none}.platform-logo{width:100%;height:82px;object-fit:contain;object-position:left center;background:#fff;border-radius:10px;padding:10px;margin-bottom:18px}.light .platform-logo{border:1px solid #dce7ec}
 @media(max-width:900px){.logo-item img{height:64px}.platform-logo{height:74px}}
+
+/* V10 expanded content */
+.grid.four{grid-template-columns:repeat(4,1fr)}.card .ticks{margin:18px 0 0;padding:0;list-style:none}.card .ticks li{padding:7px 0 7px 20px;position:relative;color:inherit;border:0}.card .ticks li:before{content:"✓";position:absolute;left:0;color:var(--cyan)}.light .card .ticks li:before{color:#087c86}.capability-strip{background:#091f31}@media(max-width:900px){.grid.four{grid-template-columns:1fr 1fr}}@media(max-width:600px){.grid.four{grid-template-columns:1fr}}
