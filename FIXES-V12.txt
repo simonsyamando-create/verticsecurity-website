@@ -1,0 +1,12 @@
+V12 fixes
+- Simplified mobile hero and sticky CTAs.
+- Removed floating CTA from Contact and added form visibility handling.
+- Added Privacy, Terms and Thank You pages.
+- Added About, Delivery and Capability to primary and footer navigation.
+- Repositioned Insights as project workshop topics.
+- Added Open Graph and Twitter metadata with a 1200 x 630 sharing image.
+- Added Australia-wide, project-type and capability trust content without fabricated testimonials.
+- Added a browser-level CSP and Cloudflare security-header guide.
+- Added Web3Forms success redirect.
+- Standardised Advisory, Design, Delivery and Assurance positioning.
+- Rewrote Platforms around outcomes rather than supplier affiliation.
