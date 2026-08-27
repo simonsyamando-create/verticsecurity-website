@@ -1,0 +1,29 @@
+{
+  "platforms": [
+    {
+      "name": "Genetec",
+      "logo": "assets/logos/genetec.png",
+      "category": "Security technology"
+    },
+    {
+      "name": "LenelS2",
+      "logo": "assets/logos/lenels2.png",
+      "category": "Security technology"
+    },
+    {
+      "name": "Gallagher",
+      "logo": "assets/logos/gallagher.png",
+      "category": "Security technology"
+    },
+    {
+      "name": "Milestone",
+      "logo": "assets/logos/milestone.png",
+      "category": "Security technology"
+    },
+    {
+      "name": "Axis",
+      "logo": "assets/logos/axis.png",
+      "category": "Security technology"
+    }
+  ]
+}
