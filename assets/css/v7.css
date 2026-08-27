@@ -21,3 +21,9 @@
 
 /* V10 expanded content */
 .grid.four{grid-template-columns:repeat(4,1fr)}.card .ticks{margin:18px 0 0;padding:0;list-style:none}.card .ticks li{padding:7px 0 7px 20px;position:relative;color:inherit;border:0}.card .ticks li:before{content:"✓";position:absolute;left:0;color:var(--cyan)}.light .card .ticks li:before{color:#087c86}.capability-strip{background:#091f31}@media(max-width:900px){.grid.four{grid-template-columns:1fr 1fr}}@media(max-width:600px){.grid.four{grid-template-columns:1fr}}
+
+/* V11 contact colour refinement */
+.cta{background:linear-gradient(135deg,#101a22,#173c3d);border:1px solid rgba(53,208,216,.35)}
+.contact-theme,.form-wrap .form{background:rgba(12,28,34,.92)}
+body:has(.form-wrap) .page-hero{background:linear-gradient(135deg,#071827,#164b48)}
+body:has(.form-wrap) .sitewide-cta .cta{background:linear-gradient(135deg,#101a22,#244b45)}
