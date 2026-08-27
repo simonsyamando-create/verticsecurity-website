@@ -1,7 +1,0 @@
-1. Confirm your video is named datacentre-flyover.mp4.
-2. Upload it to assets/video/datacentre-flyover.mp4.
-3. Upload index.html to the repository root and replace the existing file.
-4. Upload assets/css/v7.css and replace the existing file.
-5. Keep the existing assets/brand files and CNAME.
-6. Commit: Deploy complete hero video replacement.
-7. Wait for GitHub Pages Actions to complete, then hard refresh with Ctrl+F5.
